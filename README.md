@@ -1,6 +1,6 @@
 # Chat
  * Elixir chat application to familiarize myself with phoenix & elixir
- * Plan on building additional elixir real-time knowledge off this repo
+ * Plan on building additional elixir real-time features off this repo
 
 ## Stack
   * Elixir
